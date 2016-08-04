@@ -1,0 +1,27 @@
+_repo: Romantic-Ballads-Translated-from-the-Danish--and-Miscellaneous-Pieces_2430
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: ''
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish poetry -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Danish literature'
+- GITenberg
+title: Romantic Ballads, Translated from the Danish; and Miscellaneous Pieces
+url: http://www.gutenberg.org/ebooks/2430
